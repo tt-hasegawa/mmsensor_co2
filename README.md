@@ -12,7 +12,8 @@
   
 以下の図のように結線します。
 
-![MHZ19結線図](https://github.com/tt-hasegawa/mmsensor_hygro/blob/master/pin-connect_mhz19.png)
+![MHZ19結線図](https://github.com/tt-hasegawa/mmsensor_co2/blob/master/pin-connect_mhz19.png)
+
 
 # 導入方法
   
