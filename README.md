@@ -4,9 +4,15 @@
 
 # 概要
   
- 三密要望システムのCO2計測カメラプログラムです。
+ 三密要望システムのCO2計測プログラムです。
     
  CO2センサー(MH_Z19)を装着したRaspberryPi側で動作し、検知されたCO2濃度を指定のURLに投稿します。
+
+# ハードウェア
+  
+以下の図のように結線します。
+
+![MHZ19結線図](https://github.com/tt-hasegawa/mmsensor_hygro/blob/master/pin-connect_mhz19.png)
 
 # 導入方法
   
